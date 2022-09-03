@@ -1,8 +1,8 @@
-# Spring Boot + ReactJS: File Upload & Download Example
+# Spring Boot + Angular: File Upload & Download Example
 
 # User Interface
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlsbQT56w0D81GEyrpleSSW4rwWJ-BiUBW9qYzPGCKAhGqrGQSqbY9MG7JUCTFggsLf7Xn30gUvYB07Rr7HJW9T80yP_6Ybck2ILPHRcTtEfXMIA-kYVjZyUhuWokjdeynr8EW7lxELQwvWMb-dN-W5VbOfheXBX9yqqR6u2M3k8bGe5NfcR5wYIT5g/s951/Screenshot%20from%202022-06-17%2009-41-21.png">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu-jAcdN19vYLffrn9xjmuHL0nkWkXYnKqMM2iQo-k80D0JknekxpiQqPxkhKIDpPOTr7WomYpPdN9-so02qJ_XbXkhXo9Ff-YNmOXdFCEun8choBWlq7EjkDLT1pcO3EvdlR94RgLj36rWWbcc1mLNwKmZfOg8Kn_2-3myn76Z9SyfZnEdcRYnR3Gvg/s952/Screenshot%20from%202022-09-03%2010-17-56.png">
 
 # Local setup
 
@@ -18,6 +18,6 @@ Step 3:  ```mvn spring-boot:run```
 
 Step 4:  ```npm install```
 
-Step 5:  ```npm start```
+Step 5:  ```ng serve --port 8082```
 
-# From the browser call the endpoint http://localhost:3000
+# From the browser call the endpoint http://localhost:8082/
